@@ -25,8 +25,6 @@ done!
 
 > C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>python -m pip install mysql-connector-python
 
-[Full documentation link](https://dev.mysql.com/doc/connector-python/en/connector-pythonintroduction.html)
-
 # let's open your notebook and create connection :satisfied:
 
 ```sql
